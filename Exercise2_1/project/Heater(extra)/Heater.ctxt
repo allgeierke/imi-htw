@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Heater
+comment0.text=\r\n\ A\ class\ which\ simulates\ a\ heater\ with\ its\ core-function.\r\n\ \r\n\ @author\ Dennis\ Br\u00F6cker&Katja\ Hedemann\r\n\ @version\ 1.0\r\n
+comment1.params=maximum\ minimum
+comment1.target=Heater(int,\ int)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Heater\r\n
+comment2.params=increment
+comment2.target=void\ setIncrement(int)
+comment3.params=
+comment3.target=void\ warmer()
+comment4.params=
+comment4.target=void\ cooler()
+comment5.params=
+comment5.target=int\ getTemperature()
+numComments=6
